@@ -81,7 +81,7 @@ export default function Portfolio() {
       degree: "B.E. in Information Science and Engineering",
       institution: "JSS Science and Technology University, Mysore",
       period: "2022 - 2025",
-      grade: "CGPA: 5.43 (Until 5th semester)"
+      grade: "CGPA: 6.66 (Until 7th semester)"
     },
     {
       degree: "12th / 2nd PUC",
